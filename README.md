@@ -1,5 +1,9 @@
 # moslim_app
 
+link App on Google play :   https://play.google.com/store/apps/details?id=com.moslim_app
+
+
+
 A new Flutter project.
 
 ## Getting Started
